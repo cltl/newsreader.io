@@ -1,0 +1,11 @@
+title: NewsReader
+description: >
+  NewsReader FP7 EU project, reading millions of news articles and creating
+  event centric knowledge graphs.
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+show_excerpts: true
+plugins:
+  - jekyll-feed
+exclude:
+  - README.md

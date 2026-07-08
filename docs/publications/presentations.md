@@ -1,0 +1,158 @@
+---
+layout: page
+title: "Talks & Presentations"
+permalink: /publications/presentations/
+---
+2015:
+
+- Invited talk on NewsReader at De Nederlandsche Bank, Amsterdam, the Netherlands, December 3, 2015 (given by Piek Vossen)
+- Panelist at the BIG DATA DEBAT at the EUREKA! Festival, Westergasfabriek Amsterdam, location Westerliefde, November 29, 2015 (given by Piek Vossen)
+- Keynote on NewsReader at the seminar on "Kunstmatige Intelligentie en Officiële Statistiek" ("Artificial Intelligence and Official Statistics"), organized by CBS, Den Haag, November 23, 2015 (given by Piek Vossen)
+- Invited talk at Conferentie Onderzoeksjournalistiek “[Beter zoeken, dieper graven”](http://www.vvoj.nl/activiteiten/conferentie/2015-conferentie-den-haag/), Vereniging van Onderzoeksjournalisten (VVOJ), Nationaal Archief Den Haag, 20-21 november 2015 (given by Piek Vossen)
+- Keynote at [DataDonderdag](http://datadonderdag.nl/), Beurs van Berlage, Amsterdam, November 19, 2015 (given by Piek Vossen)
+- Keynote the [1st OpenMinTeD Interoperability Workshop](http://openminted.eu/), the Hague, the Netherlands, November 12, 2015 (given by Piek Vossen)
+- Invited lecture at [Elsevier Labs](http://labs.elsevier.com/) Online Lectures, Amsterdam, November 10, 2015 (given by Piek Vossen)
+- Invited talk @ launch of Data Journal by Data Archiving and Networked Services (DANS), October 20, 2015 (given by Piek Vossen)
+- Presentation at Consuming Linked Data Workshop ``LOTUS: Linked Open Text UnleaShed". Bethlehem, Pennsylvania, USA. 12 October 2015 (given by Filip Ilievski)
+- Presentation at NLP&DBpedia workshop ``Missing Mr. Brown and buying an Abraham Lincoln – Dark Entities and DBpedia". Bethlehem, Pennsylvania, USA. 11 October 2015 (given by Marieke van Erp)
+- Keynote at the e-Humanities Social Sciences track (co-organised with [KNAW](https://www.knaw.nl/en?set_language=en)) of the 3rd National eScience Symposium “the “Accelerating Scientific Discovery Symposium” ([Escience Symposium2015](https://www.esciencecenter.nl/?/symposium2015)) by the [Netherlands eScience Center](https://www.esciencecenter.nl/), Amsterdam Arena, October 8, 2015 (given by Piek Vossen)
+- Keynote on “Modelling provenance and perspectives in Biographical data” at the Wiener Tagung 2015 “[Europa baut auf Biographien](http://www.oeaw.ac.at/acdh/de/biographien)“, Österreichische Nationalbibliothek (Hofburg), Wien, October 6, 2015 (given by Piek Vossen)
+- Keynote at [Platform Linked Data](http://www.pilod.nl/wiki/Platform_Linked_Data_Nederland), Beeld en Geluid, Hilversum, September 25, 2015 (given by Piek Vossen)
+- Keynote at Recent Advances in Natural Language Processing ([RANLP 2015](http://lml.bas.bg/ranlp2015/start.php)), September 5-11, 2015, Hissar, Bulgaria (given by Piek Vossen)
+- Keynote at Datathon on 'Linguistic Linked Open Data', [Residencia Lucas Olazábal](http://residencialucasolazabal.es/?lang=en) of the Universidad Politécnica de Madrid in Cercedilla, Spain, june 2015 (given by Piek Vossen)
+- Keynote "[VOGIN-IP-lezing](http://vogin-ip-lezing.net)" at Symposium on Search and Find, organized by Stichting VOGIN and magazine InformatieProfessional, Amsterdam, the Netherlands, March 26, 2015 (given by Piek Vossen)
+- Keynote  at [Converging Media Conference 2015](http://www.convergingmedia.eu), Amsterdam, the Netherlands, March 24, 2015 (given by Piek Vossen)
+- Guest lecture on Text Mining, [Faculty of Sciences](https://www.few.vu.nl/en/), VU University Amsterdam, the Netherlands, 10 March 2015 (given by Piek Vossen)
+- Presentation at CLIN 2015, Antwerp, Belgium, January 6, 2015 (given by Piek Vossen)
+- Invited speaker at publiekssymposium on Computational Thinking, KNAW, Amsterdam, the Netherlands, January 28, 2015 (given by Piek Vossen)
+- Oral presentation at the SemEval workshop (June 5 2015): “SemEval-2015 Task 4: TimeLine: Cross-Document Event Ordering” and “HLT-FBK: a Complete Temporal Processing System for QA TempEval” (both given by Anne-Lyse Minard)
+- Oral presentation at SAC2015 Conference: “Processing Billions of RDF Triples on a Single Machine using Streaming and Sorting”. Salamanca, Spain. April 13 - 17, 2015. (given by Marco Rospocher)
+- Oral presentation at the “Deep and Large-Scale Semantic Processing Workshop” in FBK: “Integrating Unstructured and Structured Data in the Knowledge Store”. Trento, March 10, 2015. (given by Marco Rospocher)
+- Oral presentation at the “Beni Comuni Digitali” event, organized by FBK, held in Riva del Garda, Italy, March 18, 2015: “Dati e Ricerca” (given by Marco Rospocher)
+- Oral presentation at DeRiVE2015 Workshop: “A Contextual Framework for Reasoning on Events”. 31 May - 4 June, Portoroz, Slovenia. (given by Loris Bozzato)
+- Oral presentation at CILC2015 Conference: “A Contextual Framework for Reasoning on Events”. Genova, 1-3 luglio 2015. (given by Loris Bozzato)
+- Oral presentation at CLiC-it 2015 Conference (December 4): “FacTA: Evaluation of Event Factuality and Temporal Anchoring” (given by Anne-Lyse Minard)
+- Short Paper / Poster presentation at EMNLP2015 Conference: “Recognizing Bio- graphical Sections in Wikipedia”. September 17-21, 2015, Lisbon, Portugal. (given by Alessio Palmero Aprosio)
+- Poster presentation at CLiC-it 2015 Conference (December 4): “Cross-language pro- jection of multilayer semantic annotation in the NewsReader Wikinews Italian Corpus (WItaC)” (given by Manuela Speranza)
+- Presentation at CLIN 2015, Antwerp, Belgium, January 6, 2015 (given by Tommaso Caselli, in collaboration with Antske Fokkens, Roser Morante and Piek Vossen)
+- Guest lecture on Text Mining, Faculty of Sciences, VU University Amsterdam, the Netherlands, 10 March 2015 (given by Piek Vossen)
+- Invited presentation at the Symposium “Digitale historische kranten als ‘big data’” (digital historic newspapers as ‘big data’). Royal Library of the Netherlands, The Hague (given by Antske Fokkens)
+- Presentation “What do you think? Unfolding perspectives in text” at the Executive Board’s yearly visit to the Faculty of Humanities. May 8th, 2015 (given by Antske Fokkens)
+- Presentation “Storylines for structuring big data?” at the Executive Board’s yearly visit to the Faculty of Humanities. May 8th, 2015 (given by Tommaso Caselli)
+- Invited talk at XXXI Congreso de la Sociedad Española para el Procesamiento del Lenguaje Natural, SEPNL 2015, 16-18 September 2015, Alicante, Spain; Title: Natural Language Processing in Context: Perspectives for Text Interpretation. (given by Bernardo Magnini)
+- Demo presentation at ISWC2015 Conference: “Demonstrating the Power of Stream- ing and Sorting for Non-distributed RDF Processing: RDFpro”. Bethlehem, Pennsylvania, USA. 13 October 2015. (given by Marco Rospocher)
+- Demo presentation at ISWC2015 Conference: “Extracting Knowledge from Text with PIKES”. Bethlehem, Pennsylvania, USA. 13 October 2015 (given by Marco Rospocher)
+- Presentation at NLP&DBpedia workshop “Missing Mr. Brown and buying an Abraham Lincoln – Dark Entities and DBpedia”. Bethlehem, Pennsylvania, USA. 11 October 2015 (given by Marieke van Erp)
+- Presentation at Consuming Linked Data Workshop “LOTUS: Linked Open Text UnleaShed”. Bethlehem, Pennsylvania, USA. 12 October 2015 (given by Filip Ilievski)
+- Invited talk at the Car Wars Workshop and Hackathon, Amsterdam, 24 & 25 November 2015: Title: Language and Knowledge: Toward Understanding Multimedia Con- tent. (given by Bernardo Magnini)
+- Keynote at the ‘Social Media: Incubators of a renewed news media landscape?’ Symposium. “NewsReader: unfolding stories and perspectives in large amounts of data”. Leuven (Belgium), November 27 2015 (given by Antske Fokkens)
+- Panelist at the ‘Social Media: Incubators of a renewed news media landscape?’ Symposium. Leuven (Belgium). November 27, 2015 (Antske Fokkens)
+- Invited seminar at IRIT, University of Toulouse, December 10, 2015; Title: Reconstructing TimeLines in the KNOWLEDGESTORE. (given by Bernardo Magnini)
+- Invited talk at the Second Workshop on Natural Language Processing and Linked Open Data (NLP&LOD2), September 11th 2015, Collocated with RANLP 2015, Hissar, Bulgaria Title: Cross-lingual Event Detection in Discourse (given by Piek Vossen and German Rigau)
+- NewsReader project. Representative of SETSI (Secretaría de Estado de Telecomunicaciones y Sociedad de la Informacio ́n). San Sebastián, Spain. September 16th, 2015.
+- NLP & Linked Data: OpeNER and NewsReader. Lider project workshop on “Datos Enlazados y Multilinguismo”. Madrid, Spain. October 20, 2015 (given by German Rigau)
+- NewsReader presentation at CENDOJ (Centro de Documentacio ́n Judicial). San Sebastián, Spain. January 22, 2016 (given by German Rigau)
+
+##### 2014:
+
+- Piek Vossen: invited keynote speaker at De Nederlandsche Bank, Amsterdam, the Netherlands, December 18, 2014.
+- Itziar Aldabe and Rubén Urizar. IXA Seminar on NewsReader. Donostia, Spain, 2 December 2014
+- Piek Vossen: Presentation on BiographyNet, Meertens Instituut, November 30, 2014
+- Piek Vossen: invited keynote speaker at Studium Generale, Technische Universiteit Eindhoven, the Netherlands, November 19, 2014.
+- Marieke van Erp: "Nieuwe Namen Leren Linken" (poster presentation) at [TiNT 2014](http://taalunieversum.org/inhoud/tint-2014) The Hague, 14 November 2014
+- Bernardo Magnini: Invited talk on “Al tempo nel linguaggio” at "Festival della Scienza" Genova, October 24 & November 2, 2014.
+- Piek Vossen: presentation at [1st Spinoza Workshop](http://www.understandinglanguagebymachines.org/oct-17-2014-1st-vu-spinoza-workshop/), VU Amsterdam, the Netherlands, October 17, 2014
+- Piek Vossen Tafelwetenschapper met sidekick Antse Fokkkens on the 15th [Avond van Wetenschap & Maatschappij](http://www.avondwenm.nl/tafelwetenschappers/tafelwetenschappers-2014), 6 oktober 2014, Ridderzaal, Den Haag, the Netherlands, October 6, 2014.
+- Marco Rospocher: FBK Seminar on "KnowledgeStore", Trento, Italy, 4 November 2014
+- Piek Vossen: invited keynote speaker on "[Gollandskaja sreda": Dutch Wednesday 2014](http://www.nispb.ru/nieuws--agenda/dutch-wednesday-2014/dutch-wednesday-2014.html#anker-29-oktober-prof-dr-piek-vossen-vu-university-amsterdam-what-if-computers-could-read-the-news-) at Nederlands Instituut in St. Petersburg ([NIP](http://www.nispb.ru/nieuws--agenda/dutch-wednesday-2014/dutch-wednesday-2014.html)), Russia, October 29, 2014.
+- Marco Rospocher: ISWC Developers Workshop talk : "A Simple API to the KnowledgeStore", Riva del Garda, Italy, 19 October 2014
+- Bernardo Magnini: Invited Seminar at Darmstadt University (TU), UKP group, 16 October 2014. Title: “The KNOWLEDGE STORE: an Integrated Framework for Ontology Population”
+- Piek Vossen: invited keynote speaker at [UiL-OTS](http://nieuws.hum.uu.nl/tag/uil-ots/) Colloquium, Utrecht Institute of Linguistics OTS, Utrecht, the Netherlands, September 19, 2014.
+- German Rigau: Projects presentations (Roundtable) at SEPLN2014, Girona, Spain, 14 September 2014
+- Marieke van Erp, Guest Lecture Richness of the World Leiden University, Leiden, the Netherlands 2 September 2014.
+- Marieke van Erp, presentation at [Computational Models of Narrative 2014](http://narrative.csail.mit.edu/cmn14/), 30 July - 1 August, Quebec City, Canada [[slides](http://www.slideshare.net/MvanErp/finding-stories-in-1784532-events-scaling-up-computational-models-of-narrative)]
+- Piek Vossen: Presentation on NewsReader: recording history from daily news streams, 9th Language Resources and Evaluation Conference (LREC2014), 26-31 May, 2014, Reykjavik, Iceland.
+- Piek Vossen: invited talk on [the Collaborative Inter-Lingual-Index for harmonizing wordnets](http://ldl2014.org/slides/Vossen-LOD-CILI.pdf) at [3rd Workshop on Linked Data in Linguistics: Multilingual Knowledge Resources and Natural Language Processing](http://ldl2014.org/program.html), Reykjavik, Iceland, May, 27 2014  [[slides](http://ldl2014.org/slides/Vossen-LOD-CILI.pdf)].
+- Piek Vossen: Guest lecture on Text Mining, [Faculty of Sciences](https://www.few.vu.nl/en/), VU University Amsterdam, the Netherlands, May 1, 2014.
+- Piek Vossen: invited keynote speaker at Dell / Oracle conference, Utrecht, the Netherlands, April 23, 2014.
+- Piek Vossen: VU Publiekslezing on ["In zeven stappen naar totaal onbegrip"](http://www.vu.nl/nl/nieuws-agenda/agenda/publicscience/index.asp), VU University Amsterdam, Pakhuis de Zwijger, Amsterdam, the Netherlands, April 18, 2014 ([see video](http://youtu.be/s3DXqsutt5Q)).
+- Piek Vossen: Invited keynote speaker at [Toptoets 2014](http://www.toptoets.nl/56/universiteiten/vrije-universiteit-amsterdam.html), Amsterdam, the Netherlands, April 16, 2014 ([more info](http://www.toptoets.nl/Public/TopToets_brochure_2014_WEB.pdf)).
+- Piek Vossen: Invited keynote speaker at the joint workshop on data-driven research and big-data, organized by the Netherlands eScience Center and with Vereniging voor Wetenschapsjournalistiek en - communicatie Nederland (VWN), Trippenhuis, Amsterdam, the Netherlands, April 11, 2014.
+- Piek Vossen: Invited keynote speaker at [Hannover Messe 2014](http://www.%20hannovermesse.de) by het ministerie van Economische Zaken of the Netherlands, ScienceGuide en Platform Beta Techniek @ Holland Paviljoen: Das Glashaus, Hannover, Germany, April 10, 2014.
+- Piek Vossen: invited [Spinoza Lecture](http://vossen.info/wp-content/uploads/2013/05/Uitnodiging-Spinozalezing.pdf) on "Ontsnappen aan de gesloten wereld van Taal", lecture on [Spinoza prize 2013](http://vossen.info/a-short-cv/spinoza-laureate-2013/) and the [Vossen-Spinoza projects](http://vossen.info/2013/10/28/announcement-spinoza-prize-projects-of-vossen/), VU University, Amsterdam, the Netherlands, April 8, 2014 ([see video](http://av-media.vu.nl/VUMedia/Play/b7664bfb11c44e4ebc9d95684e2423651d)).
+- Piek Vossen: invited keynote speaker at European Data Form 2014 ([EDF2014](http://2014.data-forum.eu/)), Athens, Greece, March 19-20, 2014.
+- Piek Vossen: Invited keynote speaker at Studium Generale Amersfoort by De Spullenmannen, Amersfoort, the Netherlands, March 9 , 2014.
+- Piek Vossen: Invited lecture for Alumni Letteren, VU University, Amsterdam, the Netherlands, February 14, 2014.
+- Piek Vossen: Invited keynote speaker on “[Kunnen computers ooit de taal van mensen begrijpen](http://www.museon.nl/nl/kunnen-computers-ooit-de-taal-van-mensen-begrijpen-0)“ at the “[Specialistenserie”: theme: Imitation](http://www.museon.nl/nl/specialistenserie), [Museon](http://www.museon.nl/), Den Haag, the Netherlands, February 7, 2014.
+- Piek Vossen: Invited organizer and keynote speaker on “[Digital Humanities: Hype or Revolution – Part 3: ”Het gezicht van de sociale media“](https://www.knaw.nl/nl/actueel/agenda/digital-humanities-hype-of-revolutie-2) at [Spui25](http://www.spui25.nl/programma/programma/programma/content/folder-2/02/06.02.14---digital-humanities-3.html),  Amsterdam, the Netherlands, February 6, 2014 ([see video](http://vimeo.com/album/2660121)).
+- Antske Fokkens: presentation on NewsReader at [the 1st DBpedia Community Meeting](http://wiki.dbpedia.org/meetings/Amsterdam2014), Amsterdam 30 January 2014.
+- Piek Vossen: Invited organizer and keynote speaker on “[Digital Humanities: Hype or Revolution – Part 2: ”De Gouden Eeuw: de ontsluiting van een schatkamer aan informatie“](https://www.knaw.nl/nl/actueel/agenda/digital-humanities-hype-of-revolutie-1)at [Spui25](http://www.spui25.nl/programma/programma/programma/content/folder-2/01/21.01.14---digital-humanities-2.html),  Amsterdam, the Netherlands, January 21, 2014 ([see video](http://vimeo.com/album/2660121)).
+- Piek Vossen: interview at [Kenniscafé Almere](http://www.plusbibliotheekflevoland.nl/kenniscafe), organized by Plusbibliotheek Flevoland, Windesheim, Flevoland and the Open Universiteit, Almere, the Netherlands, January 23, 2014.
+- Marieke van Erp: Presentation at [CLIN24](http://clin24.inl.nl/), Leiden, the Netherlands, 17 January 2014. [[slides](http://www.slideshare.net/MvanErp/nerdml-clin14)]
+
+##### 2013:
+
+- Luciano Serafini: Presentation at the Trento Workshop on Fact checking, 2013
+- Piek Vossen in the "[Nationale Wetenschapsquiz](http://www.nwo.nl/actueel/evenementen/nationale+wetenschapsquiz)", national television, December 29, 2013.
+- Piek Vossen: video-interview VPRO.
+- Piek Vossen: video-interview on NewsReader in "De Voorlopers", SURFnet & Fast Moving Targets.
+- Piek Vossen: Invited keynote speaker on NewsReader at [Studium Generale](http://www.sg.unimaas.nl/): one presentation for foreign students (knowledge engineering, european studies, university college) in English: “[the History Recorder: Today’s News is Tomorrow’s History](http://www.sg.unimaas.nl/programma.asp?action=detail&id=1004&lang=nl)” and one presentation for broader public of region Maastricht ([HOVO](http://www.hovo-nederland.org/)-publiek) in Dutch: “[De geschiedenisrecorder: het nieuws van vandaag is de geschiedenis van morgen](http://www.sg.unimaas.nl/programma.asp?action=detail&id=1005&lang=nl)“, Maastricht University, Maastricht, the Netherlands, December 9, 2013.
+- Piek Vossen: Invited keynote speaker at [NOTaS](http://www.notas.nl/en/)-event [Taal in Bedrijf 2013](http://www.notas.nl/nl/nieuws/101-taal-in-bedrijf-2013.html?goback=%2Egde_2070853_member_268956868#%21), Nijmegen, the Netherlands, November 29, 2013.
+- Piek Vossen: Invited keynote speaker at [ICT.OPEN 2013](http://www.ictopen2013.nl/), Eindhoven, the Netherlands, November 27-28, 2013.
+- Piek Vossen: Invited keynote speaker @ “[Gala van de Amsterdamse Wetenschap](http://www.foliaweb.nl/wetenschap/robbert-dijkgraaf-eregast-bij-gala-van-de-wetenschap/?utm_source=rss&utm_medium=rss&utm_campaign=robbert-dijkgraaf-eregast-bij-gala-van-de-wetenschap)“, in cooperation with Parool and Folia, Stadsschouwburg, Amsterdam, the Netherlands, November 26, 2013 ([buy tickets](http://www.ssba.nl/page.ocl?pageid=3&ev=52933)).
+- Piek Vossen: Invited keynote speaker at [1st Annual Netherlands eScience Symposium](http://esciencecenter.nl/event-page/1st-annual-netherlands-escience-symposium/), by Netherlands eScience Center ([NLeSC](http://esciencecenter.nl/)), The Rosarium, Amstel Park, Amsterdam, the Netherlands, November 7, 2013.
+- Antske Fokkens: Presentation on NewsReader at the CLTL/CLS Symposium on Text Mining, Radboud University, Nijmegen, the Netherlands, November 13, 2013.
+- Antske Fokkens and Marieke van Erp: Invited speakers at LandS research meeting, Radboud University, Nijmegen, the Netherlands, November 13, 2013.
+- Thomas Ploeger: Presentation at the DeRiVE 2013 Workshop. ``Extractivism. Extracting activist events from news articles using existing NLP tools''. Sydney, Australia, October 21, 2013. ([slides](/assets/uploads/2012/12/revised_derive_2013_local.pdf))
+- Marieke van Erp: Poster presentation on NewsReader at The 12th International Semantic Web Conference, Sydney, Australia, October 23,  2013 ([video trailer](http://www.youtube.com/watch?v=BWj07kvpszE))
+- Marieke van Erp: Invited talk at Schwa lab, The University of Sydney, School of Information Technologies, Sydney, Australia, October 22, 2013.
+- Piek Vossen: Invited keynote speaker at [Nederlandse Vrouwenclub Amsterdam/Internationale Lyceumclub](http://www.lyceumclubamsterdam.nl/), Industrieele Groote Club, Amsterdam, October 16, 2013.
+- Piek Vossen: Invited guest on[Spinoza Prize](http://www.nwo.nl/en/news-and-events/news/2013/nwo-spinoza-prizes-2013-for-mikhail-katsnelson-piek-vossen-and-bert-weckhuysen.html) and [NewsReader](http://www.newsreader-project.eu/) @ “[OBA Live](http://www.obalive.nl/default.aspx?lIntEntityId=2153)” with Theodor Holman,  Openbare Bibliotheek ([OBA](http://www.oba.nl/)), Amsterdam, the Netherlands, October 11, 2013.
+- Piek Vossen: Invited keynote speaker on [NewsReader](http://vossen.info/wp-content/uploads/2013/05/Klokhuis.pdf) at the [Weekend van de Wetenschap](http://www.hetweekendvandewetenschap.nl/evenenement/zoek-het-uit-samen-met-de-wetenschapper/) in samenwerking met het [Klokhuis](http://www.hetklokhuis.nl/) – thema: [Zoek het uit!](http://www.museon.nl/nl/node/10970?), organized by Ministerie van OC&W for children of 8-12 years,  Weekend of Science, Museon, Den Haag, the Netherlands, October 5, 2013.
+- [Presentation by Vossen](http://vossen.info/wp-content/uploads/2013/05/Spinoza-publiek.pdf) on [Spinoza-price](http://www.nwo.nl/en/news-and-events/news/2013/nwo-spinoza-prizes-2013-for-mikhail-katsnelson-piek-vossen-and-bert-weckhuysen.html), awarded by State Secretary for Education, Culture and Science Mr Sander Dekker and NWO Chairman Professor Jos Engelen, Nieuwe Kerk Den Haag, the Netherlands, September 27,  2013.
+- Piek Vossen: National radio interview @ [BNR Newsradio](http://vossen.info/wp-content/uploads/2013/09/Vossen-@BNR-Nieuwsradio-27-september-2013.wma), September 27, 2013.
+- Marco Rospocher: Presentation on "Interlinking Unstructured and Structured Knowledge in an Integrated Framework" at the Seventh IEEE International Conference on Semantic Computing (IEEE-ICSC2013), Irvine, USA, September 16-18, 2013.
+- Piek Vossen: Invited keynote speaker on NewsReader at '[Informatie aan Zee](http://www.vvbad.be/dossiers/iaz2013)', a 2-day conference by the Flemish Association for Library, Archive and Documentation ([VVBAD](http://www.vvbad.be/)), Oostende, September 13, 2013.
+- Bernardo Magnini: Seminary on "[The KNOWLEDGESTORE: an Integrated Framework for Ontology Population](on "The KNOWLEDGESTORE: an Integrated Framework for Ontology Population”)” at INRIA,  Nice, France, September 6, 2013.
+- Piek Vossen: Invited panel member at the [Workshop on the Lexicon in Functional Discourse Grammar](http://home.hum.uva.nl/fdg/workshop_2013.html), Vienna, Austria, September 5-6, 2013.
+- Antske Fokkens and Marieke van Erp: Presentation at the Association for Computational Linguistics ([ACL 2013](http://acl2013.org/site/)), August 4-9, 2013, Bulgaria Sofia ([video trailer](http://www.youtube.com/watch?v=5EUrbd-Tfjk) , [slides](http://www.slideshare.net/MvanErp/offspring-from-reproduction-problems-what-replication-failure-teaches-us) , [video of the presentation](http://www.youtube.com/watch?v=YW5nf6c8TMw))
+- Antske Fokkens: Invited speaker on NewsReader at the DELPH-IN Summit [Linked Open Data and DELPH-IN](/assets/uploads/2012/12/LOD_and_Delphin.pdf)
+- Piek Vossen: Invited guest at round table meeting with Stichting de [Nationale DenkTank](http://www.nationale-denktank.nl/home/nieuws/) on conference on Big Data in 2014, October 10, 2013.Piek Vossen: Invited interview on Big Data @national newspaper Volkskrant, August, 2013.
+- Antske Fokkens: Invited speaker on NewsReader at the [Annual Network Institute Event](http://www.networkinstitute.org/news/annual-network-institute-event-july-4-2013/), Amsterdam, the Netherlands, July 4, 2013.
+- Piek Vossen: presentation of GAF framework at the [1st Workshop on EVENTS: Definition, Detection, Coreference, and Representation](https://sites.google.com/site/cfpwsevents/), in conjunction with [NAACL-HLT](http://naacl2013.naacl.org/), Atlanta, GA, USA, June 14, 2013.
+- Marieke van Erp: Invited speaker on "[From Events to Stories: Different ways of structuring the same bag of events over time](http://www.slideshare.net/MvanErp/from-events-to-stories-different-ways-of-structuring-the-same-bag-of-events-over-time-22964309)",  at [Soeterbeeck eHumanities Workshop](http://www.ru.nl/ehumanities/workshop-2013/home/), a 2-day workshop bringing together researchers working in humanities and ehumanities. Ravenstein, the Netherlands, June 13-14, 2013.
+- Piek Vossen: Invited guest @ national radio ”[Dit is de Dag](http://www.eo.nl/radio/ditisdedag/)“, Hilversum, the Netherlands, July 23, 2013.
+- Piek Vossen: Invited guest @ regional radio L1 [De Stemming](http://vossen.info/wp-content/uploads/2013/06/Vossen-@Radio-L1-De-Stemming-30-juni-2013.wma), café Forum, Maastricht, the Netherlands, June 30, 2013.
+- Piek Vossen: interview [Quest](http://static.quest.nl/uploads/media/pdf/Vossen.pdf) on [Spinoza Prize](http://vossen.info/a-short-cv/spinoza-laureate-2013/), special issue NWO / Experiment NL,  2013.
+- Itziar Aldabe: Presentation on "Similarity-Feature Based Approach for Student Response Analysis" at the Second Joint Conference on Lexical and Computational Semantics (\*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation ([SemEval 2013](http://www.cs.york.ac.uk/semeval-2013/)), Atlanta, USA, June 14-15, 2013.
+- Piek Vossen: Interview in  regional newspaper [Weespernieuws](http://www.weespernieuws.nl/lees/25350/hoogleraar-vossen-houdt-van-de-diversiteit-in-weesp), August 7, 2013.
+- Bernardo Magnini and Tommaso Caselli ”Events in Computational Linguistics“ at the [FBK workshop Perspectives on events](http://www.newsreader-project.eu/fbk-workshop-perspectives-on-events/), Povo, Italy, July 18, 2013
+- Itziar Aldabe: Presentation on “Similarity-Feature Based Approach for Student Response Analysis” at the Second Joint Conference on Lexical and Computational Semantics (\*SEM), Volume 2: Proceedings of the Seventh International Workshop on Semantic Evaluation ([SemEval 2013](http://www.cs.york.ac.uk/semeval-2013/)), Atlanta, USA, June 14-15, 2013.
+- Piek Vossen: interview @national newspaper [Parool](http://vossen.info/a-short-cv/spinoza-laureate-2013/parool/), June 11, 2013.
+- Piek Vossen: interview @national newspaper [Volkskrant](http://vossen.info/a-short-cv/spinoza-laureate-2013/volkskrant/), June 11, 2013.
+- Piek Vossen: interview  @national newspaper [Trouw](http://vossen.info/a-short-cv/spinoza-laureate-2013/trouw/), June 11, 2013.
+- Piek Vossen: interview @national newspaper [Algemeen Dagblad](http://vossen.info/a-short-cv/spinoza-laureate-2013/algemeen-dagblad/), June 11, 2013.
+- Piek Vossen: interview @national newspaper [NRC Handelsblad](http://vossen.info/a-short-cv/spinoza-laureate-2013/nrc/), June 11, 2013.
+- Piek Vossen: interview @ national newspaper [NRC Next](http://vossen.info/a-short-cv/spinoza-laureate-2013/nrc-next/), June 11, 2013.
+- Piek Vossen: interview @[Kennislink](http://www.kennislink.nl/publicaties/spinozapremiewinnaar-piek-vossen-combineert-taal-en-techniek), June 10, 2013.
+- Piek Vossen: interview in [New Scientist](http://www.newscientist.nl/nieuws/de-spinozapremies-2013-grafeen-katalysatoren-en-wordwebs/), June 10, 2013.
+- Piek Vossen:: interview @[Ad Valvas](http://www.advalvas.vu.nl/nieuws/spinozapremie-voor-piek-vossen), June 11, 2013.
+- Piek Vossen: interview @national radio [NOS Nieuws](http://nos.nl/l/516396), Radio 1, June 10, 2013.
+- Piek Vossen: interview @national radio NTR [Hoe?Zo! Radio](http://vossen.info/wp-content/uploads/2013/06/Vossen-@Radio-NTR-HoeZo-10-juni-2013.wma), June 10, 2013.
+- Piek Vossen: invited talk on “[Processing large streams of news in the NewsReader project](http://vossen.info/wp-content/uploads/2013/05/Vossen-CCCT-Amsterdam-24-May-2013.pdf)”at the Center for Creation, Content and Technology ([CCCT](http://ccct.uva.nl/content/ccct-seminar-text-analysis)), University of Amsterdam, the Netherlands, May 24, 2013.
+- Piek Vossen: Invited keynote speaker on "[Do big data hide or reveal stories? Recording history in the NewsReader project](http://vossen.info/docs/2013/Vossen-NIAS-reference-culture-april-25-2013.pdf)" at the workshop "Computational Humanities, reference cultures and identity formation", [Netherlands Institute for Advanced Study](http://www.nias.knaw.nl/Pages/NIA/2/764.bGFuZz1FTkc.html) (NIAS), Wassenaar, the Netherlands, April 24-26, 2013.
+- Piek Vossen: Invited keynote speaker on "[The news of today writes the history for the future Recording history in the NewsReader project](http://vossen.info/docs/2013/Vossen-Dijksterhuislezing-2013-english.pdf)" at the Dijksterhuislezing 2013, [Stichting Academisch Erfgoed](http://www.academischerfgoed.nl/categorie/nieuws/)( SAE), VU University Amsterdam, the Netherlands, April 19, 2013 (presentation in [Dutch](/Websites/Website%20Piek/docs/2013/Vossen-Dijksterhuislezing-2013.pdf)).
+- Egoitz Laparra:  Presentation on "Sources of Evidence for Implicit Argument Resolution", at the 10th International Conference on Computational Semantics ([IWCS2013](http://www.ling.uni-potsdam.de/iwcs2013/)). Postdam, Germany, March 19-22, 2013.
+- Luciano Serafini: Presentation on "[CKR: a general framework for context in Semantic Web (Theory, prototype and extension to ASP)](/assets/uploads/2012/12/CKRSemII13_Slides_TUW2.pdf)", VU University Amsterdam, February 28, 2013.
+- Marieke van Erp: Presentation on "[NewsReader: Automating detective work](http://www.slideshare.net/MvanErp/van-erp-polimediajan2013)" at [PoliMedia Symposium](http://www.polimedia.nl/polimedia-symposium/), VU University, Amsterdam, the Netherlands, January 23, 2013.
+- Luciano Serafini: [Presentation](/assets/uploads/2012/12/newsreader-per-fact-checking-workshop.pptx) on NewsReader at "[Facts, Truths, Argumentations](http://www.ahref.eu/en/events/a-cura-di-ahref/facts-truth-debates)",  Fondazione Bruno Kessler, Trento, Italy, January 18, 2013.
+
+##### 2012:
+
+- Piek Vossen: Invited speaker in [Casa Luna](http://www.radio1.nl/items/62927-piek-vossen-over-big-data-en-de-geschiedenis-recorder), Dutch radio interview on new EU-project [NewsReader](http://www.let.vu.nl/en/events/news/2012/vu-to-develop-history-recorder.asp), Mediapark, Hilversum, October 8, 2012
+  - [announcement video](http://www.youtube.com/watch?v=Q1OJNtnOTZc) on Youtube by Casa Luna;
+  - @ Radio 1, [NCRV Casa Luna, part 1](http://tools.ncrv.nl/download/podcast_tool/casaluna_2012_10_09_1349741659_PC_CL_08-10-2012_Piek_Vossen_-_.MP3) (on NewsReader)
+  - @ Radio 1, [NCRV Casa Luna, part 2](http://tools.ncrv.nl/download/podcast_tool/casaluna_2012_10_09_1349765703_PCCLPiekII.MP3) (live interaction with listeners)
+  - Blog from Marco Leeuwerink on the interview at Casa Luna on [Extend Limits](http://www.extendlimits.nl/index.php/nieuws/artikel/geschiedenisrecorder_als_digitaal_geheugen).
+- Piek Vossen: Invited speaker in [Dutch radio interview](http://vossen.info/docs/2012/ProfVossen-10mei2012%20radio%20funx.mp3) on new EU-project [NewsReader](http://www.let.vu.nl/en/events/news/2012/vu-to-develop-history-recorder.asp), in Radio Station FunX, Amsterdam, May 10, 2012.
+- [press release](http://www.let.vu.nl/en/events/news/2012/vu-to-develop-history-recorder.asp) on Newsreader by Vrije Universiteit Amsterdam VU, May 2, 2012.
