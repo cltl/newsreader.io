@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications &amp; Talks"
+title: "Publications & Talks"
 permalink: /publications/
 ---
 - [Papers](/publications/papers/ "Papers") (peer reviewed publications)

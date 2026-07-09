@@ -4,6 +4,7 @@ title: "Kick-off Meeting 15-16.01.2013"
 permalink: /kick-off-meeting-15-16-01-2013/
 ---
 [![La Reine](/assets/uploads/2012/12/0025KR-la-reine.jpg)](/assets/uploads/2012/12/0025KR-la-reine.jpg)
+
 **More pictures of the kick-off: please go the picasa webalbum of this meeting:**
 
 |  |

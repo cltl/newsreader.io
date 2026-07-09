@@ -3,12 +3,12 @@ layout: post
 title: "More than a waste paper bin: the data for From Porsches to Pizza"
 date: 2014-12-18 10:03:04 +0000
 categories:
-  - "Events"
   - "Announcements"
+  - "Events"
 tags:
+  - "cars"
   - "hackathon"
   - "january"
-  - "cars"
 ---
 A car metaphor seems in place to start: the NewsReader engine is a true gas guzzler, with an extreme thirst for raw data. We quenched this thirst by selecting and delivering several **millions** of news articles covering the global automotive industry for the NewsReader infrastructure to process and enrich.
 

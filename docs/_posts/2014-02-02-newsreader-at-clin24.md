@@ -6,8 +6,8 @@ categories:
   - "Presentations"
 tags:
   - "clin"
-  - "named entity recognition"
   - "named entity disambiguation"
+  - "named entity recognition"
 ---
 On Friday 17 January NWR team member Marieke van Erp presented work on entity recognition and disambiguation at [CLIN24](http://clin24.inl.nl). This work is a collaboration with researchers from [EURECOM](http://www.eurecom.fr) and [Università degli studi di Torino](http://www.unito.it). Slides are available through slideshare.
 

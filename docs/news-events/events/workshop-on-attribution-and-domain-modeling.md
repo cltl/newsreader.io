@@ -20,7 +20,7 @@ The goal of the workshop is to establish a general model for representing the at
 
 ### Logistics
 
-**Date:** May 14th 2014 from 9:00 - 17:30.
+**Date:** May 14th 2014 from 9:00 – 17:30.  
 **Location:** VU University Amsterdam. Main building, room 10A-08.
 
 #### Organization
@@ -37,16 +37,20 @@ Itziar Albade, Egoitz Laparra, German Rigau
 
 ### Schedule
 
-**8:45 - 9:00** Coffee
-**9:00 - 9:15** Welcome
-**9:15 - 11:00** Modeling provenance and factuality (part 1)
-**11:00 - 11:15** Coffee break
-**11:15 - 12:30** Modelling provenance and factuality (part 2)
-**12:45 - 13:45** Lunch in the Basket
-**13:45 - 15:45** A basic ontology for NewsReader
-**15:45 - 16:00** Coffee break
-**16:00 - 17:30** Distinguishing Instances and Concepts
-**19:30** Dinner at Oresti's: Daniël Stalpertstraat 93, 1072 XD Amsterdam
+**8:45 – 9:00** Coffee  
+**9:00 – 9:15** Welcome
+
+**9:15 – 11:00** Modeling provenance and factuality (part 1)  
+**11:00 – 11:15** Coffee break  
+**11:15 – 12:30** Modelling provenance and factuality (part 2)
+
+**12:45 – 13:45** Lunch in the Basket
+
+**13:45 – 15:45** A basic ontology for NewsReader  
+**15:45 – 16:00** Coffee break  
+**16:00 – 17:30** Distinguishing Instances and Concepts
+
+**19:30** Dinner at Oresti’s: Daniël Stalpertstraat 93, 1072 XD Amsterdam
 
 ### Outcome
 

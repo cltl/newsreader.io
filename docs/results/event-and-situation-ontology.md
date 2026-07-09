@@ -15,21 +15,18 @@ ESO has 63 event classes, divided over dynamic (50) and static (13) event classe
 
 Eso is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
- 
 An example of the ESO properties for joining and leaving an organisation events are shown here:
 
 |  |
 | --- |
 | [del5propsmap](/assets/uploads/2014/11/del5propsmap.png) |
 
- 
 ESO divides events and situations into static and dynamic hierarchies. A schematic overview of the static hierarchy is presented below:
 
 |  |
 | --- |
 | [static-hierarchy](/assets/uploads/2014/11/static-hierarchy.png) |
 
- 
 The dynamic hierarchy in ESO is presented here:
 
 |  |

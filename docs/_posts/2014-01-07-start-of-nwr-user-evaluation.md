@@ -5,11 +5,11 @@ date: 2014-01-07 10:15:31 +0000
 categories:
   - "Events"
 tags:
-  - "user study"
   - "evaluation"
-  - "users"
   - "study"
+  - "user study"
+  - "users"
 ---
 [![evaluation](/assets/uploads/2014/01/evaluation.jpg)](/assets/uploads/2014/01/evaluation.jpg)
- 
-More to follow soon...
+
+More to follow soon…

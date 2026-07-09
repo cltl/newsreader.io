@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "CfP: Semantic Web and Information Extraction Workshop (SWAIE 2013) "
+title: "CfP: Semantic Web and Information Extraction Workshop (SWAIE 2013)"
 date: 2013-05-21 11:16:28 +0000
 categories:
   - "Events"
 tags:
-  - "workshop"
   - "cfp"
-  - "swaie"
-  - "semantic web"
   - "information extraction"
   - "ranlp"
+  - "semantic web"
+  - "swaie"
+  - "workshop"
 ---
 There is a vast wealth of information available in textual format that the Semantic Web cannot yet tap into: 80% of data on the Web and on internal corporate intranets is unstructured, hence analysing and structuring the data – social analytics and next generation analytics – is a large and growing endeavour. The goal of the 1st workshop on Semantic Web and Information Extraction is to bring researchers from the fields of Information Extraction and the Semantic Web together to foster inter-domain collaboration. To make sense of the large amounts of textual data now available, we need help from both the Information Extraction and Semantic Web communities. The Information Extraction community specialises in mining the nuggets of information from text: such techniques could, however, be enhanced by annotated data or domain-specific resources. The Semantic Web community has already taken great strides in making these resources available through the Linked Open Data cloud, which are now ready for uptake by the Information Extraction community. The workshop invites contributions around three particular topics: 1) Semantic Web-driven Information Extraction, 2) Information Extraction for the Semantic Web, and 3) applications and architectures on the intersection of Semantic Web and Information Extraction.
 

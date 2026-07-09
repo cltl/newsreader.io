@@ -77,5 +77,4 @@ permalink: /publications/deliverables/
 - [D10.6 Project show case](http://kyoto.let.vu.nl/newsreader_deliverables/NWR-D10-6.pdf)
 - [NWR-Final-Report](/assets/uploads/2012/12/NWR-Final-Report.pdf)
 
- 
 This is how the deliverables came into existence:

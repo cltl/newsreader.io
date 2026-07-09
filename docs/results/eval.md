@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "eval"
-permalink: /eval/
+permalink: /results/eval/
 ---
 |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -13,25 +13,25 @@ Test Survey (to show during explanation): <https://lexisnexis.co1.qualtrics.com
 
  Evaluation starts at 09:00
 
-             09:00 - 09:30: Introduction 
+             09:00 – 09:30: Introduction 
 
-                  09:00 - 09:10 Piek 
+                  09:00 – 09:10 Piek 
 
-                  09:10 - 09:50 SynerScope 
+                  09:10 – 09:50 SynerScope 
 
-                  09:50 - 10:00 Setup evaluation  
+                  09:50 – 10:00 Setup evaluation  
 
-             10:00 - 10:40: Session 1
+             10:00 – 10:40: Session 1
 
-             10:40 - 11:00: Coffee break
+             10:40 – 11:00: Coffee break
 
-             11:00 - 11:40: Session 2
+             11:00 – 11:40: Session 2
 
-             11:40 - 12:20: Session 3
+             11:40 – 12:20: Session 3
 
-             12:20 - 12:300: Wrap up
+             12:20 – 12:300: Wrap up
 
-             12:30 - 13:30: Lunch 
+             12:30 – 13:30: Lunch 
 
 |  |  |  |  |
 | --- | --- | --- | --- |

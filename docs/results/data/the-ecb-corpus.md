@@ -6,6 +6,7 @@ permalink: /results/data/the-ecb-corpus/
 The ECB+ corpus is an extension to the EventCorefBank (ECB, Bejan and Harabagiu, 2010). A newly added corpus component consists of 502 documents that belong to the 43 topics of the ECB but that describe different seminal events than those already captured in the ECB. All corpus texts were found through Google Search and were annotated with mentions of events and their times, locations, human and non-human participants as well as with within- and cross-document event and entity coreference information. The 2012 version of annotation of the ECB corpus (Lee et al., 2012) was used as a starting point for re-annotation of the ECB according to the ECB+ annotation guideline.
 
 The major differences with respect to the 2012 version of annotation of the ECB are:
+
 (a) five event components are annotated in text:
 
 - actions (annotation tags starting with ACTION and NEG)
@@ -21,7 +22,7 @@ The major differences with respect to the 2012 version of annotation of the ECB 
 - INTRA\_DOC\_COREF tag captures within document coreference chains that do not participate in cross-document relations; within document coreference was annotated by means of the CAT tool (Bartalesi et al., 2012)
 - CROSS\_DOC\_COREF tag indicates cross-document coreference relations created in the CROMER tool (Girardi et al., 2014); all coreference branches refer by means of relation target IDs to the so called TAG\_DESCRIPTORS, pointing to human friendly instance names (assigned by coders) and also to instance\_id-s
 
-(d) events are annotated from an "event-centric" perspective, i.e. annotation tags are assigned depending on the role a mention plays in an event (for more information see ECB+ references).
+(d) events are annotated from an “event-centric” perspective, i.e. annotation tags are assigned depending on the role a mention plays in an event (for more information see ECB+ references).
 
 **DOWNLOAD**
 

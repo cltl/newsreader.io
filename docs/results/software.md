@@ -3,10 +3,11 @@ layout: page
 title: "Software"
 permalink: /results/software/
 ---
-On this page, you can find the different software modules developed by the NewsReader project. The easiest setup is provided by the virtual machine package that contains the complete pipelines. For those interested in trying out different parts of the pipelines, all separate modules are listed below as well. Please note that the pipelines take [NAF](http://wordpress.let.vupr.nl/naf/) files as input, for which we have made available Java and Python libraries.
-With each module, we specify who developed it. The quickest way to get help with a module is to contact that person. If a publication is associated with a module, it will be specified on the module's page.
+On this page, you can find the different software modules developed by the NewsReader project. The easiest setup is provided by the virtual machine package that contains the complete pipelines. For those interested in trying out different parts of the pipelines, all separate modules are listed below as well. Please note that the pipelines take [NAF](https://newsreader.vossen.info/newsreader/naf/) files as input, for which we have made available Java and Python libraries.
 
-### 'Black box' setup
+With each module, we specify who developed it. The quickest way to get help with a module is to contact that person. If a publication is associated with a module, it will be specified on the module’s page.
+
+### ‘Black box’ setup
 
 For each of the processing pipelines (English, Spanish, Italian and Dutch), we have a downloadable virtual machine package that sets up the pipeline with the default settings as described in [Deliverable D4.2.2 Event Detection v2](http://www.newsreader-project.eu/files/2012/12/NWR-D4-2-2.pdf).
 
@@ -20,6 +21,7 @@ For each of the processing pipelines (English, Spanish, Italian and Dutch), we h
 ### Hadoop package for batch processing (by SURFsara)
 
 All modules for English and the overall setup to run the pipeline on a Hadoop cluster.
+
 [direct download (±5GB)](http://beehub.nl/surfsara-hadoop/public/newsreader-hadoop.tar.gz)
 
 ### KnowledgeStore
@@ -90,7 +92,7 @@ All modules for English and the overall setup to run the pipeline on a Hadoop cl
 
 - [TimePro](https://bitbucket.org/qwaider/textpro-en/src): English module to recognize temporal expression (part of TextPro tool)
 
-- [HeidelTime NAF-wrapper](https://github.com/cltl/NAF-HeidelTime): NAF-wrapper around Strötgen (2013)'s HeidelTime that can be used for recognizing time expressions in Dutch and English, [see also](https://code.google.com/p/heideltime/). Note that the [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time) is more robust than this wrapper. It works for Dutch and Spanish and can easily be adapted to work for English.
+- [HeidelTime NAF-wrapper](https://github.com/cltl/NAF-HeidelTime): NAF-wrapper around Strötgen (2013)’s HeidelTime that can be used for recognizing time expressions in Dutch and English, [see also](https://code.google.com/p/heideltime/). Note that the [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time) is more robust than this wrapper. It works for Dutch and Spanish and can easily be adapted to work for English.
 
 - [TempRelPro](https://github.com/paramitamirza/TempCauseRelPro): English module to recognize temporal relations (part of TextPro tool).
 
@@ -112,13 +114,13 @@ All modules for English and the overall setup to run the pipeline on a Hadoop cl
 
 - [vua-svm-wsd](https://github.com/cltl/svm_wsd): This program svm\_wsd implements a machine learning Word Sense Disambiguation system based on Support Vector Machines. It is used in the Dutch pipeline.
 
-- [HeidelTime NAF-wrapper](https://github.com/cltl/NAF-HeidelTime): NAF-wrapper around Strötgen (2013)'s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Dutch and English. This version uses Treetagger and only needs the NAF token-layer. The ixa-pipe-time wrapper ([Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time)) is more robust and recommended instead of this NAF-wrapper.
+- [HeidelTime NAF-wrapper](https://github.com/cltl/NAF-HeidelTime): NAF-wrapper around Strötgen (2013)’s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Dutch and English. This version uses Treetagger and only needs the NAF token-layer. The ixa-pipe-time wrapper ([Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time)) is more robust and recommended instead of this NAF-wrapper.
 
-- [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time): An integrated NAF-wrapper around Strötgen (2013)'s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Spanish and Dutch. The wrapper works on the NAF term layer and can easily be adapted to English.
+- [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time): An integrated NAF-wrapper around Strötgen (2013)’s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Spanish and Dutch. The wrapper works on the NAF term layer and can easily be adapted to English.
 
 - [vua-ontotagger](https://github.com/cltl/OntoTagger): module that inserts ontological labels to Wordnet synsets associated with terms or directly to the lemmas of the term based on the external resources provided. It is typically used to assign Predicate Matrix mappings to synsets.
 
-- [SONAR SRL](https://github.com/newsreader/vua-srl-nl): NAF-compliant reimplementation of De Clerq et al. (2012)'s SoNar SRL module.
+- [SONAR SRL](https://github.com/newsreader/vua-srl-nl): NAF-compliant reimplementation of De Clerq et al. (2012)’s SoNar SRL module.
 
 - [vua-framenet-classifier](https://github.com/cltl/OntoTagger): module that reads NAF files of English, Spanish and Dutch text and applies FrameNet frames and roles to the SRL layer using the PredicateMatrix for the respective language.[see also](http://www.cltl.nl/results/software/eventcoreference/).
 
@@ -188,7 +190,7 @@ All modules for English and the overall setup to run the pipeline on a Hadoop cl
 
 - [CorefGraph](https://bitbucket.org/Josu/corefgraph): a python reimplementation of the coreference resolution tool proposed by the Stanford NLP group (Lee et al., 2013) for English and Spanish.
 
-- [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time): An integrated NAF-wrapper around Strötgen (2013)'s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Spanish and Dutch. The wrapper works on the NAF term layer and can easily be adapted to English.
+- [Heideltime NAF-adaptation](https://github.com/ixa-ehu/ixa-pipe-time): An integrated NAF-wrapper around Strötgen (2013)’s [HeidelTime](https://code.google.com/p/heideltime/) that can be used for recognizing time expressions in Spanish and Dutch. The wrapper works on the NAF term layer and can easily be adapted to English.
 
 ### Evaluation modules
 

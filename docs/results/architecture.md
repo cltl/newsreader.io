@@ -19,7 +19,9 @@ The workflow of the NewsReader architecture is the following:
 ### 2 NewsReader pipeline for Big Data
 
 The linguistic processing is performed by a series of NLP modules running sequentially. The modules consume and produce the linguistic annotations following a common representation format, called NAF (NLP Annotation Format). NLP modules of each language are packed into virtual machines, and deployed in several servers among the partners.
+
 Inside each VM the modules are managed using the Storm framework for streaming computing. Using Storm, we implement a *topology* (a graph of computations) which describe the processing stages each document undergo.
+
 In the first year of the project we scale out our solution for NLP processing by deploying all NLP modules into VMs and making as many copies of the VMs as necessary to process an initial document batch of documents on time. This is shown in the following figure:
 
 ![lpstage1b.png](/assets/uploads/2014/02/lpstage1b.png)

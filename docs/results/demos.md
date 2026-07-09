@@ -5,7 +5,7 @@ permalink: /results/demos/
 ---
 ## From English text, to NAF and from NAF to RDF
 
-The next two demos show how we process English text files to detect events and participants. The first demo represents a pipeline of Natural Language Processing modules that generates a structure in the [NAF](http://wordpress.let.vupr.nl/naf/) format. The NAF output can be loaded as a file in the second demo, which creates a TriG structure in which instances of events and participants are represented with pointers to the mentions in the NAF structure. The TriG representations is based on the [SEM](http://wordpress.let.vupr.nl/sem/) format. These demos show our implementation of the [GAF](http://groundedannotationframework.org/) framework, combining mentions and instances and providing a layer for storing provenance (following the [PROV-O](http://www.w3.org/TR/prov-o/) guidelines).
+The next two demos show how we process English text files to detect events and participants. The first demo represents a pipeline of Natural Language Processing modules that generates a structure in the [NAF](https://newsreader.vossen.info/newsreader/naf/) format. The NAF output can be loaded as a file in the second demo, which creates a TriG structure in which instances of events and participants are represented with pointers to the mentions in the NAF structure. The TriG representations is based on the [SEM](https://newsreader.vossen.info/newsreader/sem/) format. These demos show our implementation of the [GAF](http://groundedannotationframework.org/) framework, combining mentions and instances and providing a layer for storing provenance (following the [PROV-O](http://www.w3.org/TR/prov-o/) guidelines).
 
 - [Demo of the NewsReader NLP pipeline](http://ixa2.si.ehu.es/nrdemo/demo.php). Just copy in any English text and see what entities and events and other annotations are added automatically. The result is represented in the NAF format
 - [Demo of the conversion of the NewsReader NLP output to TriG format](http://ic.vupr.nl/~ruben/vua-eventcoreference.ttl/). You can upload a file in NAF format and the service will generate the TriG file, representing instances of events and participants as well as provenance relations. The TriG file is converted to Turtle format and loaded in Visual RDF. A download button is provided to download the TriG file.  The NAF needs to have the following layers: text, terms, entities, coreferences, semantic roles. The previous NLP pipeline will generate NAF with these layers.
@@ -14,7 +14,7 @@ The next two demos show how we process English text files to detect events and p
 
 ## Spanish text to NAF
 
-The next demo shows the first version of the processing of Spanish texts. The pipeline uses the  [NAF](http://wordpress.let.vupr.nl/naf/)  as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition, named entity linking and semantic role labelling.
+The next demo shows the first version of the processing of Spanish texts. The pipeline uses the  [NAF](https://newsreader.vossen.info/newsreader/naf/)  as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition, named entity linking and semantic role labelling.
 
 - [Demo of the NewsReader NLP pipeline](http://ixa2.si.ehu.es/nrdemo_es/demo.php). Just copy in any Spanish text and see what entities and other annotations are added automatically. The result is represented in the NAF format
 
@@ -22,7 +22,7 @@ The next demo shows the first version of the processing of Spanish texts. The pi
 
 ## Dutch text to NAF
 
-The next demo shows the first version of the processing of Dutch texts. The pipeline uses the [NAF](http://wordpress.let.vupr.nl/naf/)as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition, named entity linking word-sense-disambiguation, time expression detection and semantic role labelling.
+The next demo shows the first version of the processing of Dutch texts. The pipeline uses the [NAF](https://newsreader.vossen.info/newsreader/naf/)as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition, named entity linking word-sense-disambiguation, time expression detection and semantic role labelling.
 
 - [Demo of the NewsReader NLP pipeline](http://kyoto.let.vu.nl/%7Ehuygen/test/test.php). Just paste in any Dutch text and see what annotations are generated automatically. The result is represented in the NAF format.
 
@@ -30,7 +30,7 @@ The next demo shows the first version of the processing of Dutch texts. The pip
 
 ## Italian text to NAF
 
-The next demo shows the first version of the processing of Italian texts. The pipeline uses the  [NAF](http://wordpress.let.vupr.nl/naf/)  as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition and temporal processing.
+The next demo shows the first version of the processing of Italian texts. The pipeline uses the  [NAF](https://newsreader.vossen.info/newsreader/naf/)  as a layered annotation format for a number of NLP modules including tokenization, lemmatization, part-of-speech tagging, parsing, named entity recognition and temporal processing.
 
 - [Demo of the NewsReader NLP pipeline](http://hlt-services2.fbk.eu:8080/nwrDemo/nwr). Just copy in any Italian text and see what entities and other annotations are added automatically. The result is represented in the NAF format.
 
@@ -56,7 +56,7 @@ The next demo shows [PIKES](http://pikes.fbk.eu), a new frame-based knowledge e
 
 The next demo shows the second version of the [ESO](/results/event-and-situation-ontology/ "Event and Situation Ontology") reasoning module, updated to handle the ESO v2 ontology. It takes in input a TriG file produced by the [VUA event coreference module](http://ic.vupr.nl/~ruben/vua-eventcoreference.ttl/) , and produces pre-/post/during-situations according to the ESO v2 rules.
 
-- [Demo of the ESO Reasoner](http://knowledgestore2.fbk.eu/reasoner). Just upload a TriG file produced by the VUA event coreference module (or use the example in the UI). You'll get a list of events in the TriG, enriched with the pre-/post/during-situations automatically inferred by the reasoner.
+- [Demo of the ESO Reasoner](http://knowledgestore2.fbk.eu/reasoner). Just upload a TriG file produced by the VUA event coreference module (or use the example in the UI). You’ll get a list of events in the TriG, enriched with the pre-/post/during-situations automatically inferred by the reasoner.
 
 ---
 
@@ -67,6 +67,7 @@ The next demo video shows how knowledge extracted from the NewsReader processing
 - [Video Demo of the KnowledgeStore](http://youtu.be/YVOQaljLta4).
 
 A publicly available KnowledgeStore instance, populated with the content extracted from Wikinews, can be accessed [here](https://knowledgestore2.fbk.eu/nwr/wikinews).
+
 Synerscope implemented a NewsReader application to access the data in the KnowledgeStore within their visualization platform. Several [videos](/results/demos/synerscope/ "Synerscope") demonstrate how this application can be used to query and interact with the data.
 
 ---
@@ -93,5 +94,7 @@ Stories can be told in many ways and from many different perspectives. Storytell
 4. source representation of the story as text
 
 The stories are built from the SEM-RDF representations of events. We show a selection events for the MEANTIME data sets for *airbus, apple, chrysler\_gm\_ford* and *stock\_market* news articles. The demo can be accessed here: <http://nlesc.github.io/UncertaintyVisualization/>
+
 The demo and data structures are explained on the next [page](/results/demos/json-timeline-structure/ "JSON Timeline structure").
+
 P. Vossen, T. Caselli, and Y. Kontzopoulou, “Storylines for structuring massive streams of news,” in Proceedings of the 1st workshop on computing news storylines (cnews 2015) at the 53rd annual meeting of the association for computational linguistics and the 7th international joint conference on natural language processing (acl-ijcnlp 2015), Bejing, China, 2015.

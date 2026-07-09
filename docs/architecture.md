@@ -61,7 +61,7 @@ This page provides an overview of the NewsReader architecture. The different sli
 
 ## Visualisations
 
-### *Tesla - Mattel (SynerScope)*
+### *Tesla – Mattel (SynerScope)*
 
 ### *Tesla Share Prices (SynerScope)*
 

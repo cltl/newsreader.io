@@ -7,7 +7,7 @@ permalink: /news-events/events/
 
 - 8th Global WordNet Conference 2016 (GWC2016), fc. to be organized by VUA (Piek Vossen).
 - Conference on Big Data in 2014, fc. to be organized by Stichting de [Nationale DenkTank](http://www.nationale-denktank.nl/home/nieuws/) and VUA (Piek Vossen).
-- [SemEval2015 Task 4](http://alt.qcri.org/semeval2015/task4/): FBK (Anne-Lyse Minard, Manuela Speranza, Bernardo Magnini), VUA (Marieke van Erp), EHU (Itziar Aldabe, Rubén Urizar, Eneko Agirre, German Rigau),  co-located with NAACL HLT, May 31 - June 5, 2015, Denver, Colorado, USA.
+- [SemEval2015 Task 4](http://alt.qcri.org/semeval2015/task4/): FBK (Anne-Lyse Minard, Manuela Speranza, Bernardo Magnini), VUA (Marieke van Erp), EHU (Itziar Aldabe, Rubén Urizar, Eneko Agirre, German Rigau),  co-located with NAACL HLT, May 31 – June 5, 2015, Denver, Colorado, USA.
 
 **Organized conferences and workshops  by members of the NewsReader team:**
 
@@ -53,7 +53,7 @@ permalink: /news-events/events/
 - FBK (Marco Rospocher) attended 7th IEEE International Conference on Semantic Computing ([IEEE-ICSC2013](http://ieee-icsc.org/icsc2013/)), Irvine, CA, USA, 2013, Knowledge Store for NewsReader, September 16-18, 2013.
 - ‘[Informatie aan Zee](http://www.vvbad.be/de-geschiedenisrecorder-het-nieuws-van-vandaag-de-geschiedenis-van-morgen)‘, a 2-day conference by the Flemish Association for Library, Archive and Documentation ([VVBAD](http://www.vvbad.be/)): VUA (Piek Vossen), Oostende, September 13, 2013.
 - [Workshop on the Lexicon in Functional Discourse Grammar](http://home.hum.uva.nl/fdg/workshop_2013.html): VUA (Piek Vossen) Vienna, Austria, September 5-6, 2013.
-- Bernardo Magnini: a seminary at INRIA (Nice) on "The KNOWLEDGESTORE: an Integrated Framework for Ontology Population”
+- Bernardo Magnini: a seminary at INRIA (Nice) on “The KNOWLEDGESTORE: an Integrated Framework for Ontology Population”
 - The 51st Annual Meeting of the Association for Computational Linguistics ([ACL 2013](http://www.acl2013.org/site/)): FBK (Sara Tonelli) and VUA (Marieke van Erp/Antske Fokkens), Sofia, Bulgaria, August 4-7, 2013.
 - Delph-in Summit: VUA (Antske Fokkens). Linked Open Data and DELPH-IN. St. Wendel, Germany. July 29, 2013.
 - Bernardo Magnini and Tommaso Caselli ”Events in Computational Linguistics“ at the [FBK workshop Perspectives on events](http://www.newsreader-project.eu/fbk-workshop-perspectives-on-events/), Povo, Italy, July 18, 2013
@@ -63,10 +63,10 @@ permalink: /news-events/events/
 - Second Joint Conference on Lexical and Computational Semantics (\*SEM). The Seventh International Workshop on Semantic Evaluation ([SemEval 2013](http://www.cs.york.ac.uk/semeval-2013/)) : EHU (Eneko Agirre, Itziar Aldabe), Atlanta, USA, June 14-15, 2013.
 - The 1st Workshop on EVENTS: Definition, Detection, Coreference, and Representation, in conjunction with NAACL-HLT: VUA (Piek Vossen), Atlanta, GA, USA, June 14, 2013.
 - The Soeterbeeck eHumanities Workshop: VUA (Marieke van Erp), Ravenstein, the Netherlands, June 13-14, 2013.
-- Data Science London: SW (Ian Hopkinson) on June 12th, entitled "Scraping and parsing PDFs in Python"
+- Data Science London: SW (Ian Hopkinson) on June 12th, entitled “Scraping and parsing PDFs in Python”
 - The Seminar of Center for Creation, Content and Technology (CCCT): VUA (Piek Vossen), University of Amsterdam, the Netherlands, May 24, 2013.
 - The workshop “Computational Humanities, reference cultures and identity formation”, [Netherlands Institute for Advanced Study](http://www.nias.knaw.nl/Pages/NIA/2/764.bGFuZz1FTkc.html) (NIAS): VUA (Piek Vossen), Wassenaar, the Netherlands, April 24-26, 2013.
 - The Dijksterhuislezing 2013, [Stichting Academisch Erfgoed](http://www.academischerfgoed.nl/categorie/nieuws/)( SAE): VUA (Piek Vossen), VU University Amsterdam, the Netherlands, April 19, 2013
-- 10th International Conference on Computational Semantics [(IWCS'13](http://www.ling.uni-potsdam.de/iwcs2013/)) : EHU (Egoitz Laparra, German Rigau), Potsdam, Germany, March 19-22, 2013.
+- 10th International Conference on Computational Semantics [(IWCS’13](http://www.ling.uni-potsdam.de/iwcs2013/)) : EHU (Egoitz Laparra, German Rigau), Potsdam, Germany, March 19-22, 2013.
 - PoliMedia Symposium: VU (Marieke van Erp), VU University, Amsterdam, the Netherlands, January 23, 2013
 - “[Facts, Truths, Argumentations](http://www.ahref.eu/en/events/a-cura-di-ahref/facts-truth-debates)“, (FBK: Luciano Serafini), Fondazione Bruno Kessler, Trento, Italy, January 18, 2013.

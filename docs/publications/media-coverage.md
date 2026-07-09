@@ -19,7 +19,7 @@ permalink: /publications/media-coverage/
 - Logo NewsReader
 - Brochure on NewsReader
 - Website on NewsReader: [www.newsreader-project.eu](http://www.newsreader-project.eu).
-- Website on GAF: <groundedannotationframework.org>
+- Website on GAF: [groundedannotationframework.org](/newsreader/groundedannotationframework.org)
 - NewsReader on Facebook: <https://www.facebook.com/NewsReaderRecorder>
 
 **Television & Radio / Video:**

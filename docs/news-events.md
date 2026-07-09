@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "News &amp; Events"
+title: "News & Events"
 permalink: /news-events/
 ---
 |  |  |
