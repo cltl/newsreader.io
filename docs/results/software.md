@@ -9,7 +9,7 @@ With each module, we specify who developed it. The quickest way to get help with
 
 ### ‘Black box’ setup
 
-For each of the processing pipelines (English, Spanish, Italian and Dutch), we have a downloadable virtual machine package that sets up the pipeline with the default settings as described in [Deliverable D4.2.2 Event Detection v2](http://www.newsreader-project.eu/files/2012/12/NWR-D4-2-2.pdf).
+For each of the processing pipelines (English, Spanish, Italian and Dutch), we have a downloadable virtual machine package that sets up the pipeline with the default settings as described in [Deliverable D4.2.2 Event Detection v2](/assets/publications/NWR-D4-2-2.pdf).
 
 - **[English Virtual Machine](https://github.com/ixa-ehu/nwr-english-pipeline-vm)**: The instructions to download the virtual machine (VM) with all the required modules and NLP processors to run the **English pipeline** developed within the Newsreader project for event extraction is available at [this page](https://github.com/ixa-ehu/nwr-english-pipeline-vm)
 

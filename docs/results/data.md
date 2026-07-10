@@ -30,7 +30,7 @@ The data can be downloaded as a single zip file [here](http://kyoto.let.vu.nl/~
 
 **Batch 2 (processed in 2014)**
 
-In 2014, 1.3 million news articles about the Global Automotive Industry were processed using the second version of the NewsReader NLP Pipeline (as described in [Deliverable D2.2](http://www.newsreader-project.eu/files/2012/12/NWR-D2-2.pdf)) with the resulting text mentions aggregated into event instances as in Batch 1. In addition, the processing in this dataset also contains some domain specific modules, which are described in [Deliverable D5.2.1](/assets/uploads/2013/05/NWR-D5-1-2.pdf).
+In 2014, 1.3 million news articles about the Global Automotive Industry were processed using the second version of the NewsReader NLP Pipeline (as described in [Deliverable D2.2](/assets/publications/NWR-D2-2.pdf)) with the resulting text mentions aggregated into event instances as in Batch 1. In addition, the processing in this dataset also contains some domain specific modules, which are described in [Deliverable D5.2.1](/assets/uploads/2013/05/NWR-D5-1-2.pdf).
 
 The dataset contains 1.8 million entity instances (compressed from 54 million entity mentions) and 19 million event instances (referred to through 100 million event mentions). Where possible the data is linked to DBpedia instances. Furthermore, event information is linked to the [Events and Situations Ontology](https://github.com/newsreader/eso).
 
@@ -55,7 +55,7 @@ We have gathered the following entities from CrunchBase on August 19, 2013:
 | Product | 25,754 | 6.65 |
 | **Total** | **387,097** | **100** |
 
-Acquisitions, competitions, investments, providerships, relationships and products are encoded as typed relations between entities. The CrunchBase data was downloaded through the REST API and converted to RDF (see [Deliverable D4.3.1](http://www.newsreader-project.eu/files/2012/12/NewsReader-316404-D4.3.1.pdf) for details). CrunchBase’s content is available under the Creative Commons Attribution License ([CC-BY](http://creativecommons.org/licenses/by/2.0/)). The only requirement is that there is a link back to CrunchBase from any page that uses CrunchBase data.
+Acquisitions, competitions, investments, providerships, relationships and products are encoded as typed relations between entities. The CrunchBase data was downloaded through the REST API and converted to RDF (see [Deliverable D4.3.1](/assets/publications/NewsReader-316404-D4.3.1.pdf) for details). CrunchBase’s content is available under the Creative Commons Attribution License ([CC-BY](http://creativecommons.org/licenses/by/2.0/)). The only requirement is that there is a link back to CrunchBase from any page that uses CrunchBase data.
 
 This dataset is available in JSON and can be downloaded in parts:
 

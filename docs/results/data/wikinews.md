@@ -64,4 +64,4 @@ A revised version of the Italian section of the MEANTIME corpus has been used fo
 
 ## Technical Report
 
-- Marieke van Erp, Piek Vossen, Rodrigo Agerri, Anne-Lyse Minard, Manuela Speranza, Ruben Urizar, Egoitz Laparra, Itziar Aldabe, and German Rigau. 2015. Annotated Data, version 2. Technical Report D3-3-2, VU Amsterdam. <http://www.newsreader-project.eu/files/2012/12/NWR-D3-3-2.pdf>.
+- Marieke van Erp, Piek Vossen, Rodrigo Agerri, Anne-Lyse Minard, Manuela Speranza, Ruben Urizar, Egoitz Laparra, Itziar Aldabe, and German Rigau. 2015. Annotated Data, version 2. Technical Report D3-3-2, VU Amsterdam. [NWR-D3-3-2.pdf](/assets/publications/NWR-D3-3-2.pdf).

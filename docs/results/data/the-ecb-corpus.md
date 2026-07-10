@@ -45,7 +45,7 @@ The ECB+ corpus is also described in:
 
 Agata Cybulska and Piek Vossen. 2014. Using a sledgehammer to crack a nut? Lexical diversity and event coreference resolution. In Proceedings of LREC 2014.
 
-Agata Cybulska and Piek Vossen. Guidelines for ECB+ Annotation of Events and their Coreference. 2014. (<http://www.newsreader-project.eu/files/2013/01/NWR-2014-1.pdf>)
+Agata Cybulska and Piek Vossen. Guidelines for ECB+ Annotation of Events and their Coreference. 2014. ([NWR-2014-1.pdf](/assets/publications/NWR-2014-1.pdf))
 
 Other relevant references:
 

@@ -110,6 +110,6 @@ Another example of the same dataset shows how using SynerScope we can also build
 
 **NewsReader Code**
 
-You can find the source code to the Natural Language Processing Modules and the KnowledgeStore at <https://github.com/newsreader> The modules are further described in [Deliverable 4.2.2 Event Detection](http://www.newsreader-project.eu/files/2012/12/NWR-D4-2-2.pdf), but this document is only for those really interested in this part, as it;s pretty long. All other documentation on the project can be found on the [Deliverables](/publications/deliverables/ "Deliverables") and [Tech reports](/publications/technical-reports/ "Technical Reports") pages. But it’s probably easiest to ask a NewsReader team member.
+You can find the source code to the Natural Language Processing Modules and the KnowledgeStore at <https://github.com/newsreader> The modules are further described in [Deliverable 4.2.2 Event Detection](/assets/publications/NWR-D4-2-2.pdf), but this document is only for those really interested in this part, as it;s pretty long. All other documentation on the project can be found on the [Deliverables](/publications/deliverables/ "Deliverables") and [Tech reports](/publications/technical-reports/ "Technical Reports") pages. But it’s probably easiest to ask a NewsReader team member.
 
 Happy hacking!

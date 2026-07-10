@@ -19,9 +19,9 @@ permalink: /publications/deliverables/
 **WP03: Benchmarking**
 
 - [D3.1 Annotation module](http://kyoto.let.vu.nl/newsreader_deliverables/NWR-D3-1.pdf)
-- [D3.2 Evaluation module](http://kyoto.let.vu.nl/newsreader_deliverables/NWR-D3-2.pdf)
+- [D3.2 Evaluation module](/assets/publications/NWR-D3-2.pdf)
 - D3.3.1 Annotated data
-- [D3.3.2 Annotated data, revised](http://kyoto.let.vu.nl/newsreader_deliverables/NWR-D3-3-2.pdf)
+- [D3.3.2 Annotated data, revised](/assets/publications/NWR-D3-3-2.pdf)
 
 **WP04: Event Detection**
 
